@@ -64,6 +64,10 @@ This project began as a way to improve my Power BI skills by working with a stru
 
 This dashboard is designed to be **playful, intuitive, and beginner-friendly**, with a retro-inspired Pokédex UI:
 
+
+https://github.com/user-attachments/assets/c37b4bbc-b11a-4026-b15b-01dc9067c3bf
+
+
 ### 🎮 Visual Slicers & Filters
 - **Image-based slicer** to select Pokémon by icon  
 - Additional filters for:
@@ -100,6 +104,7 @@ This dashboard is designed to be **playful, intuitive, and beginner-friendly**, 
 ---
 
 ## 🖼️ Example: Corsola (No. 222)
+<img width="3829" height="1766" alt="image" src="https://github.com/user-attachments/assets/2f337172-468d-4624-87a6-2cdf835e6dab" />
 
 - **Generation**: 2  
 - **Type**: Water / Rock  
@@ -160,4 +165,4 @@ Fork the repo, open a pull request, or raise an issue.
 **Made with data and curiosity by Anansha Kc**  
 *Learning Power BI — one Pokémon at a time.*
 
-🌐 [LinkedIn](https://linkedin.com/in/anansha-kc) | 💼 Project Advisory Group | ⚙️ Data6 Studio
+🌐 [LinkedIn](https://linkedin.com/in/anansha-kc) 
